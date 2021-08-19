@@ -3,7 +3,7 @@
 ## Explorer Mode
 
 Step 1
-!image of Step 1[](./step1.png)
+![image of Step 1[](./step1.png)
 
 ## Adventure Mode
 
